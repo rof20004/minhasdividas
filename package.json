@@ -1,0 +1,24 @@
+{
+  "name": "minhasdividas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bower": "^1.7.9",
+    "hapi": "^15.2.0",
+    "hapi-auth-cookie": "^6.1.1",
+    "hapi-cookie": "^0.1.0",
+    "hapi-riot": "^2.0.0",
+    "inert": "^4.0.2",
+    "joi": "^9.2.0",
+    "mongoose": "^4.6.5",
+    "vision": "^4.1.0"
+  }
+}

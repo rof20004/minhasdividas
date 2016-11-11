@@ -1,0 +1,22 @@
+{
+  "name": "minhasdividas",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rodolfo do Nascimento Azevedo <rof20004@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "v4.0.0-alpha.4",
+    "jquery-maskmoney": "^3.0.2"
+  }
+}
